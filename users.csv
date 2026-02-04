@@ -1,0 +1,5 @@
+"id";"username";"password";"role";"reg_no";"created_at";"email"
+1;"lalit";"lalit123";"STUDENT";"RA2311026050118";"2026-01-28 20:05:47";"ls3841@srmist.edu.in"
+2;"teacher1";"teacher123";"TEACHER";"";"2026-01-28 20:05:47";"lalitaditya37@gmail.com"
+3;"hod1";"hod123";"HOD";"";"2026-01-28 20:05:47";"sathiskumart18@gmail.com"
+4;"dean1";"dean123";"DEAN";"";"2026-01-28 20:05:47";"ramyasathis564@gmail.com"
